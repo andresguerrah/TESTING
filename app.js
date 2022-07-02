@@ -12,3 +12,4 @@ function fromYanToPound(a){
 }
 
 module.exports = { fromDollarToYen, fromEuroToDollar,fromYanToPound};
+
